@@ -15,7 +15,6 @@
 •	ウェブ構成: HTML, CSS, BootStrap, JavaScript
 •	サーバシステム連動: JAVA, Servlet, JSP, JSTL, EL
 •	データベース: JDBC
-
 <br>
 
 ### 曺受廷 仕事内容
@@ -23,7 +22,6 @@
 •	レビューと評価ウェブページ作成: HTML, CSS, BootStrap, JavaScript
 •	ウェブページデザイン関連資料集め
 •	インデックスページ作成
-
 <br>
 
 ### 柳東勳 仕事内容
@@ -32,7 +30,6 @@
 •	会員登録, 食堂情報管理, ID及びパスワード検索ウェブページ作成: HTML, CSS, BootStrap, JavaScript
 •	サーバシステム連動: JAVA, Servlet, JSP, JSTL, EL
 •	データベース: JDBC
-
 <br>
 <br>
 
