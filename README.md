@@ -5,31 +5,31 @@
 
 [プロジェクトにアクセス](https://github.com/unic9339/WakuWaku/tree/master/WakuWaku)
 
-### 概要
+### 概要<br>
  •	地域のグルメを登録及び管理しながらウェブサイトの会員情報も管理します。 
 それとグルメのレビューを会員達が共有できます。管理者はグルメ情報を管理して会員達に権限を付与しながら管理ができます。
 
-### 金泰旼 仕事内容
-•	参加: 40%
-•	会員管理・ログイン・食堂検索機能: JSP, Ajax, JSON
-•	ウェブ構成: HTML, CSS, BootStrap, JavaScript
-•	サーバシステム連動: JAVA, Servlet, JSP, JSTL, EL
-•	データベース: JDBC
+### 金泰旼 仕事内容<br>
+•	参加: 40%＜ｂｒ＞
+•	会員管理・ログイン・食堂検索機能: JSP, Ajax, JSON<br>
+•	ウェブ構成: HTML, CSS, BootStrap, JavaScript<br>
+•	サーバシステム連動: JAVA, Servlet, JSP, JSTL, EL<br>
+•	データベース: JDBC<br>
 <br>
 
-### 曺受廷 仕事内容
-•	参加: 30%
-•	レビューと評価ウェブページ作成: HTML, CSS, BootStrap, JavaScript
-•	ウェブページデザイン関連資料集め
-•	インデックスページ作成
+### 曺受廷 仕事内容<br>
+•	参加: 30%<br>
+•	レビューと評価ウェブページ作成: HTML, CSS, BootStrap, JavaScript<br>
+•	ウェブページデザイン関連資料集め<br>
+•	インデックスページ作成<br>
 <br>
 
-### 柳東勳 仕事内容
-•	参加: 30%
-•	食堂管理及び掲示板作成: JSP, Ajax, JSON
-•	会員登録, 食堂情報管理, ID及びパスワード検索ウェブページ作成: HTML, CSS, BootStrap, JavaScript
-•	サーバシステム連動: JAVA, Servlet, JSP, JSTL, EL
-•	データベース: JDBC
+### 柳東勳 仕事内容<br>
+•	参加: 30%<br>
+•	食堂管理及び掲示板作成: JSP, Ajax, JSON<br>
+•	会員登録, 食堂情報管理, ID及びパスワード検索ウェブページ作成: HTML, CSS, BootStrap, JavaScript<br>
+•	サーバシステム連動: JAVA, Servlet, JSP, JSTL, EL<br>
+•	データベース: JDBC<br>
 <br>
 <br>
 
