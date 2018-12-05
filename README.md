@@ -3,7 +3,7 @@
 ### プロジェクト:　地域グルメレビューサイト「ワクワク」
 
 
-[ワクワク](https://github.com/unic9339/WakuWaku/tree/master/WakuWaku)
+[プロジェクトにアクセス](https://github.com/unic9339/WakuWaku/tree/master/WakuWaku)
 
 ### 概要
  •	地域のグルメを登録及び管理しながらウェブサイトの会員情報も管理します。 
