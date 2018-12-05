@@ -1,0 +1,57 @@
+@charset "UTF-8";
+
+#bg {
+	background-image: url("../img/background.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50%;
+    position: relative;
+}
+
+.searchLogo{
+	position: absolute;
+	left: 20%;
+	list-style: none;
+}
+
+#wakuwakuLogo {
+	float: left;
+	max-width: 100px;
+	height: auto;
+	margin-right:15px;
+}
+
+#word{
+	font-size: 35px;
+	font-weight: bold;
+    font-family: Arial;
+}
+
+
+nav {
+	position: relative;
+}
+
+ul {
+	position: absolute;
+	right: 0;
+}
+
+li a {
+	color: black;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+
+li a:hover {
+	background-color: #F6D155;
+	color: #F2552C;
+}
+
+button#sub{
+	font-size: 20px;
+	width: 200px;
+	margin: auto;
+}

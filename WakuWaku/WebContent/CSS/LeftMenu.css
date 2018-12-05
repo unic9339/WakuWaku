@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+.vertical-menu {
+    width: 200px;
+}
+
+.vertical-menu a {
+    background-color: #eee;
+    color: black;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+}
+
+.vertical-menu a:hover {
+    background-color: #ddd;
+}
+
+.vertical-menu a.active {
+    background-color: #666;
+    color: white;
+}
+td{
+	background-color: #eee;
+}

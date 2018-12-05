@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+#wrap{
+	width: 490px;
+	text-align: center;
+	margin: 0 auto 0 auto;
+}
+
+#chk{
+	text-align: center;
+}
+
+#cancelBtn{
+	visibility: visible;
+}
+
+#useBtn{
+	visibility: hidden;
+}
